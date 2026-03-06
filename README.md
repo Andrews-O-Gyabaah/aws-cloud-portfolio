@@ -26,7 +26,8 @@ To land a cloud role by demonstrating practical AWS skills beyond certifications
 
 | # | Project | AWS Services | Status |
 |---|---|---|---|
-| 01 | [Café Static Website on S3](./projects/s3-static-website/) | S3, IAM | 🔄 In Progress |
+| 01 | [Café Static Website on S3](./projects/s3-static-website/) | S3, IAM | ✅ Completed |
+  02 — Amazon EFS: Shared File System with EC2 & Performance Monitoring | EC2. EFS | ✅ Completed |
 
 *More projects added as I progress through SAA modules.*
 
